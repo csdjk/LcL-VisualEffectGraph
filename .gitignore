@@ -72,4 +72,6 @@ crashlytics-build.properties
 # vscode cache directory
 .vscode/
 .history/
+/Samples/
+
 
